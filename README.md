@@ -1,5 +1,9 @@
 <h1 align = "Center">Women Safety App - Java</h1>
 
+
+***If any women's feel unsafe, she can just turn on the application and put it on her pocket, the application will automatically detect abnormal voice like "help" in a right frequency and also body movement, and will automatically send voice recording + location to nearest police station and her home, we have more ideas with this project, in India our sisters are being targeted by rapist, we can't change people's mind, but we can use our technology to save them, this project will be free for everyone along with other projects***
+
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
