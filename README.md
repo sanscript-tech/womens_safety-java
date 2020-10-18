@@ -1,5 +1,9 @@
 <h1 align = "Center">Women Safety App - Java</h1>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
 
 ## Autumn of Open Source AOSS 2020
 <p align="center">
