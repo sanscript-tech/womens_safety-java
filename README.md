@@ -1,4 +1,4 @@
-<h1 align = "Center">Women Safety App</h1>
+<h1 align = "Center">Women Safety App - Java</h1>
 
 
 ## Autumn of Open Source AOSS 2020
