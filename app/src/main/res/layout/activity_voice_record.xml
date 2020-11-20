@@ -15,7 +15,7 @@
         android:src="@drawable/mic_btn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></ImageButton>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/btnStop"
@@ -28,7 +28,8 @@
         android:textColor="@android:color/holo_red_dark"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnRecord"></Button>
+        android:contentDescription="StopRecordingButton"
+        app:layout_constraintTop_toBottomOf="@+id/btnRecord" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
